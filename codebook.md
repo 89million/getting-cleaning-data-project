@@ -10,25 +10,25 @@ A list of variables and their units is below in the following format:
 #### Variable name 
 #### *Description/Units*
 
-[1] "SubjectId"                                      	
-Unique ID number for each of 30 subjects
-[2] "ActivityLabel"                                   	
-One of six activities
-[3] "timeBodyAccelerometer-mean-X"                    	
-*Standard gravity units g*
-[4] "timeBodyAccelerometer-mean-Y"                    	
-*Standard gravity units g*
-[5] "timeBodyAccelerometer-mean-Z"                    	
-*Standard gravity units g*
-[6] "timeBodyAccelerometer-std-X"                     	
-*Standard gravity units g*
-[7] "timeBodyAccelerometer-std-Y"                     	
-*Standard gravity units g*
-[8] "timeBodyAccelerometer-std-Z"                     	
-*Standard gravity units g*
-[9] "timeGravityAccelerometer-mean-X"					
-*Standard gravity units g*                 
-[10] "timeGravityAccelerometer-mean-Y"        		 	
+* [1] "SubjectId"                                      	
+* *Unique ID number for each of 30 subjects*
+* [2] "ActivityLabel"                                   	
+* *One of six activities*
+* [3] "timeBodyAccelerometer-mean-X"                    	
+* *Standard gravity units g*
+* [4] "timeBodyAccelerometer-mean-Y"                    	
+* *Standard gravity units g*
+* [5] "timeBodyAccelerometer-mean-Z"                    	
+* *Standard gravity units g*
+* [6] "timeBodyAccelerometer-std-X"                     	
+* *Standard gravity units g*
+* [7] "timeBodyAccelerometer-std-Y"                     	
+* *Standard gravity units g*
+* [8] "timeBodyAccelerometer-std-Z"                     	
+* *Standard gravity units g*
+* [9] "timeGravityAccelerometer-mean-X"					
+* *Standard gravity units g*                 
+* [10] "timeGravityAccelerometer-mean-Y"        		 	
 *Standard gravity units g*        
 [11] "timeGravityAccelerometer-mean-Z"        			
 *Standard gravity units g*         
