@@ -8,8 +8,9 @@ Processed data: The train and test data frames are loaded into R and bound by co
 
 A list of variables and their units is below in the following format:
 * **[nth]Variable name**
-  * **_Description/Units_**
-___
+  * **_Description/Units_**   
+
+***
 
 * \[1] "SubjectId"                                      	
   * *Unique ID number for each of 30 subjects*
