@@ -7,7 +7,7 @@ Raw data: 10299 observations organized by a subject's ID number and an activity 
 Processed data: The train and test data frames are loaded into R and bound by column with their respective subject and activity data frames. Train and test are then merged together by row. The file "features.txt" is used to create a character vector and applied to name the data frame variables. The data was subset by searching the feature names for matches with "mean" and "std". The original activity codes (numbered 1-6) were replaced with their matching natural language equivalents from the "activity_labels.txt" file. Those activity labels were then converted to the factor class in R. Finally the aggregate function is used to split the data by SubjectId and ActivityLabel, compute the mean and return the result in a new tidy data frame that is much smaller and more readable than the original. 
 
 A list of variables and their units is below in the following format:
-* **Variable name**
+* **[nth]Variable name**
 * **_Description/Units_**
 
 
